@@ -1,0 +1,85 @@
+[ Certora Prover Documentation ![Logo](https://docs.certora.com/en/latest/_static/Certora_Logo_Black.svg) ](https://docs.certora.com/en/latest/index.html)
+Contents
+  * [Certora User’s Guide](https://docs.certora.com/en/latest/docs/user-guide/index.html)
+  * [The Certora Verification Language](https://docs.certora.com/en/latest/docs/cvl/index.html)
+  * [The Certora Prover](https://docs.certora.com/en/latest/docs/prover/index.html)
+    * [Introduction](https://docs.certora.com/en/latest/docs/prover/intro.html)
+    * [Installation](https://docs.certora.com/en/latest/docs/user-guide/install.html)
+    * [Prover Approximations](https://docs.certora.com/en/latest/docs/prover/approx/index.html)
+    * [Techniques Used by the Certora Prover](https://docs.certora.com/en/latest/docs/prover/techniques/index.html)
+    * [Diagnostic Tools](https://docs.certora.com/en/latest/docs/prover/diagnosis/index.html)
+    * [Checking Specifications](https://docs.certora.com/en/latest/docs/prover/checking/index.html)
+    * [Certora Prover CLI](https://docs.certora.com/en/latest/docs/prover/cli/index.html)
+    * [Using the Certora Portal](https://docs.certora.com/en/latest/docs/prover/portal/using.html)
+    * [Changelogs](https://docs.certora.com/en/latest/docs/prover/changelog/index.html)
+      * [Prover Release Notes](https://docs.certora.com/en/latest/docs/prover/changelog/prover_changelog.html)
+      * [GUI Release Notes](https://docs.certora.com/en/latest/docs/prover/changelog/gui_changelog.html)
+  * [Sunbeam: Verification for Soroban](https://docs.certora.com/en/latest/docs/sunbeam/index.html)
+  * [The Certora Solana Prover](https://docs.certora.com/en/latest/docs/solana/index.html)
+  * [Gambit: Mutation Generator for Solidity](https://docs.certora.com/en/latest/docs/gambit/index.html)
+
+
+Additional information
+  * [The Certora Equivalence Checker](https://docs.certora.com/en/latest/docs/equiv-check/index.html)
+  * [Certora Technology White Paper](https://docs.certora.com/en/latest/docs/whitepaper/index.html)
+
+
+  * [Index](https://docs.certora.com/en/latest/genindex.html)
+
+
+[Certora Prover Documentation](https://docs.certora.com/en/latest/index.html)
+  * [](https://docs.certora.com/en/latest/index.html)
+  * [The Certora Prover](https://docs.certora.com/en/latest/docs/prover/index.html)
+  * Changelogs
+  * [ View page source](https://docs.certora.com/en/latest/_sources/docs/prover/changelog/index.md.txt)
+
+
+# Changelogs[](https://docs.certora.com/en/latest/docs/prover/changelog/index.html#changelogs "Link to this heading")
+Contents
+  * [Prover Release Notes](https://docs.certora.com/en/latest/docs/prover/changelog/prover_changelog.html)
+    * [7.28.0 (April 10, 2025)](https://docs.certora.com/en/latest/docs/prover/changelog/prover_changelog.html#april-10-2025)
+    * [7.26.0 (Mar 13, 2025)](https://docs.certora.com/en/latest/docs/prover/changelog/prover_changelog.html#mar-13-2025)
+    * [7.25.2 (Feb 19, 2025)](https://docs.certora.com/en/latest/docs/prover/changelog/prover_changelog.html#feb-19-2025)
+    * [7.22.2 (Jan 12, 2025)](https://docs.certora.com/en/latest/docs/prover/changelog/prover_changelog.html#jan-12-2025)
+    * [7.21.1 (December 12, 2024)](https://docs.certora.com/en/latest/docs/prover/changelog/prover_changelog.html#december-12-2024)
+    * [7.20.1 (November 20, 2024)](https://docs.certora.com/en/latest/docs/prover/changelog/prover_changelog.html#november-20-2024)
+    * [7.17.2 (October 8, 2024)](https://docs.certora.com/en/latest/docs/prover/changelog/prover_changelog.html#october-8-2024)
+    * [7.14.2 (September 2, 2024)](https://docs.certora.com/en/latest/docs/prover/changelog/prover_changelog.html#september-2-2024)
+    * [7.10.1 (July 25, 2024)](https://docs.certora.com/en/latest/docs/prover/changelog/prover_changelog.html#july-25-2024)
+    * [7.6.3 (May 15, 2024)](https://docs.certora.com/en/latest/docs/prover/changelog/prover_changelog.html#may-15-2024)
+    * [7.3.0 (April 11, 2024)](https://docs.certora.com/en/latest/docs/prover/changelog/prover_changelog.html#april-11-2024)
+    * [7.0.7 (March 15, 2024)](https://docs.certora.com/en/latest/docs/prover/changelog/prover_changelog.html#march-15-2024)
+    * [6.3.1 (February 2, 2024)](https://docs.certora.com/en/latest/docs/prover/changelog/prover_changelog.html#february-2-2024)
+    * [6.1.3 (January 11, 2024)](https://docs.certora.com/en/latest/docs/prover/changelog/prover_changelog.html#january-11-2024)
+    * [5.0.5 (November 21, 2023)](https://docs.certora.com/en/latest/docs/prover/changelog/prover_changelog.html#november-21-2023)
+    * [4.13.1 (September 26, 2023)](https://docs.certora.com/en/latest/docs/prover/changelog/prover_changelog.html#september-26-2023)
+    * [4.12.1 (September 17, 2023)](https://docs.certora.com/en/latest/docs/prover/changelog/prover_changelog.html#september-17-2023)
+    * [4.10.1 (August 21, 2023)](https://docs.certora.com/en/latest/docs/prover/changelog/prover_changelog.html#august-21-2023)
+    * [4.8.0 (August 13, 2023)](https://docs.certora.com/en/latest/docs/prover/changelog/prover_changelog.html#august-13-2023)
+    * [4.5.1 (July 15, 2023)](https://docs.certora.com/en/latest/docs/prover/changelog/prover_changelog.html#july-15-2023)
+    * [4.3.1 (July 2, 2023)](https://docs.certora.com/en/latest/docs/prover/changelog/prover_changelog.html#july-2-2023)
+    * [4.0.5 (June 7, 2023) CVL 2](https://docs.certora.com/en/latest/docs/prover/changelog/prover_changelog.html#june-7-2023-cvl-2)
+  * [GUI Release Notes](https://docs.certora.com/en/latest/docs/prover/changelog/gui_changelog.html)
+    * [4.3.0 (Apr 10, 2025)](https://docs.certora.com/en/latest/docs/prover/changelog/gui_changelog.html#apr-10-2025)
+    * [4.0.2 (Mar 13, 2025)](https://docs.certora.com/en/latest/docs/prover/changelog/gui_changelog.html#mar-13-2025)
+    * [4.0.0 (Feb 19, 2025)](https://docs.certora.com/en/latest/docs/prover/changelog/gui_changelog.html#feb-19-2025)
+    * [3.1.1 (Jan 12, 2025)](https://docs.certora.com/en/latest/docs/prover/changelog/gui_changelog.html#jan-12-2025)
+    * [3.0.2 (Nov 18, 2024)](https://docs.certora.com/en/latest/docs/prover/changelog/gui_changelog.html#nov-18-2024)
+    * [2.4.4 (Nov 6, 2024)](https://docs.certora.com/en/latest/docs/prover/changelog/gui_changelog.html#nov-6-2024)
+    * [2.4.1 (Oct 6, 2024)](https://docs.certora.com/en/latest/docs/prover/changelog/gui_changelog.html#oct-6-2024)
+    * [2.3.2 (Sep 2, 2024)](https://docs.certora.com/en/latest/docs/prover/changelog/gui_changelog.html#sep-2-2024)
+    * [2.2.0 (Jul 24, 2024)](https://docs.certora.com/en/latest/docs/prover/changelog/gui_changelog.html#jul-24-2024)
+    * [2.1.6 (Jul 8, 2024)](https://docs.certora.com/en/latest/docs/prover/changelog/gui_changelog.html#jul-8-2024)
+    * [2.0.1 (May 15, 2024)](https://docs.certora.com/en/latest/docs/prover/changelog/gui_changelog.html#may-15-2024)
+    * [1.0.0 (Apr 11, 2024)](https://docs.certora.com/en/latest/docs/prover/changelog/gui_changelog.html#apr-11-2024)
+    * [0.8.0 (Mar 11, 2024)](https://docs.certora.com/en/latest/docs/prover/changelog/gui_changelog.html#mar-11-2024)
+    * [0.7.0 (Feb 12, 2024)](https://docs.certora.com/en/latest/docs/prover/changelog/gui_changelog.html#feb-12-2024)
+    * [0.6.0 (Jan 31, 2024)](https://docs.certora.com/en/latest/docs/prover/changelog/gui_changelog.html#jan-31-2024)
+    * [0.5.7 (Nov 26, 2023)](https://docs.certora.com/en/latest/docs/prover/changelog/gui_changelog.html#nov-26-2023)
+    * [0.5.62 (Feb 11, 2024)](https://docs.certora.com/en/latest/docs/prover/changelog/gui_changelog.html#feb-11-2024)
+    * [0.5.6 (October 24, 2023)](https://docs.certora.com/en/latest/docs/prover/changelog/gui_changelog.html#october-24-2023)
+
+
+[ Previous](https://docs.certora.com/en/latest/docs/prover/portal/secrets.html "Special Portal URLs") [Next ](https://docs.certora.com/en/latest/docs/prover/changelog/prover_changelog.html "Prover Release Notes")
+© Copyright 2025, Certora, Inc.
+Built with [Sphinx](https://www.sphinx-doc.org/) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided by [Read the Docs](https://readthedocs.org). 
